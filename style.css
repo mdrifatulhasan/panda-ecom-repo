@@ -43,3 +43,35 @@ nav{
     font-weight: 500;
     font-size: 16px;
 }
+
+/* Banner */
+.banner{
+    background: rgb(254, 234, 233);
+    display: flex;
+    justify-content: space-between;
+    gap: 5px;
+    align-items: center;
+}
+
+.banner h2{
+    color: rgb(31, 31, 31);
+    font-size: 56px;
+    font-weight: 700;   
+}
+
+.banner p{
+    color: #4E4E4E;
+}
+
+.banner img{
+    width: 402px;
+    height: 378px;
+}
+
+.banner-price{
+    color: #FF136F;
+    font-weight: bold;
+    font-size: 52px;
+    display: block;
+    margin-bottom: 0;
+}
