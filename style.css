@@ -1,0 +1,17 @@
+nav{
+    display: flex;
+    justify-content: space-between;
+}
+.search-parent{   
+}
+
+.search-parent input{
+    border-radius: 66px;
+    padding: 15px 30px;
+    width: 500px;
+    background-color: rgb(241, 241, 241);
+}
+
+.search-parent i{
+    
+}
