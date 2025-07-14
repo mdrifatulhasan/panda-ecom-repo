@@ -2,7 +2,9 @@ nav{
     display: flex;
     justify-content: space-between;
 }
-.search-parent{   
+.search-parent{
+    position: relative;
+    color: #BABABA;  
 }
 
 .search-parent input{
@@ -10,8 +12,11 @@ nav{
     padding: 15px 30px;
     width: 500px;
     background-color: rgb(241, 241, 241);
+    border: none;
 }
 
 .search-parent i{
-    
+    position: absolute;
+    top: 17px;
+    right: 20px;
 }
