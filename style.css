@@ -1,3 +1,4 @@
+/* Common CSS */
 *{
     box-sizing: border-box;
 }
@@ -7,9 +8,20 @@
     margin: auto;
 }
 
+.panda-btn{
+    border-radius: 6px;
+    background: linear-gradient(180.00deg, rgb(255, 88, 155) -0.006%,rgb(255, 19, 111) 99.994%);
+    padding: 15px 35px;
+    border: none;
+    color: white;
+    font-weight: 500;
+}
+
+/* Custom CSS */
 nav{
     display: flex;
     justify-content: space-between;
+    padding: 10px 0;
 }
 
 .search-parent{
@@ -51,6 +63,9 @@ nav{
     justify-content: space-between;
     gap: 5px;
     align-items: center;
+    padding: 28px;
+    border-radius: 10px;
+    margin-top: 25px;
 }
 
 .banner h2{
@@ -61,6 +76,7 @@ nav{
 
 .banner p{
     color: #4E4E4E;
+    width: 500px;
 }
 
 .banner img{
