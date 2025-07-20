@@ -100,10 +100,6 @@ nav{
 
 
 /* Category */
-.categories{
-    margin: 64px 0;
-}
-
 .categories-card-container{
     display: flex;
     gap: 26px;
