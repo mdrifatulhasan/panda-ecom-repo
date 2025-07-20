@@ -92,3 +92,13 @@ nav{
     display: block;
     margin-bottom: 0;
 }
+
+
+/* Category */
+.category-card{
+    background: linear-gradient(151.85deg, rgb(255, 156, 53) 14.537%,rgb(255, 208, 25) 84.486%);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 4px;
+}
