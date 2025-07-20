@@ -18,6 +18,11 @@
     font-weight: 500;
 }
 
+.common-section-title{
+    font-weight: 600;
+    font-size: 36px;
+}
+
 /* Custom CSS */
 nav{
     display: flex;
@@ -95,6 +100,10 @@ nav{
 
 
 /* Category */
+.categories{
+    margin: 64px 0;
+}
+
 .categories-card-container{
     display: flex;
     gap: 26px;
@@ -111,6 +120,7 @@ nav{
     border-radius: 10px;
     flex: 1;
 }
+
 .category-card h3{
     color: white;
     font-weight: bold;
