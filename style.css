@@ -99,14 +99,12 @@ nav{
     margin-bottom: 0;
 }
 
-
 /* Category */
 .categories-card-container{
     display: flex;
     gap: 26px;
     width: 100%;
 }
-
 
 .category-card{
     display: flex;
@@ -189,7 +187,6 @@ nav{
 .shoe-card .panda-btn{
     background: black;
 }
-
 
 /* Contact */
 .contact-us-parent{
